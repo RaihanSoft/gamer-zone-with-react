@@ -3,7 +3,7 @@ import React from 'react'
 function Nav() {
     return (
         <div>
-            <nav className='flex justify-between px-5 xl:px-16 shadow-xl py-2'>
+            <nav className='flex justify-between  px-5 xl:px-16 shadow-xl py-2'>
                 <div className='flex items-center  gap-3'>
                     <div>
                         <img className='h-[30px]' src="./Frame.png" alt="" />

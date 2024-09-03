@@ -26,7 +26,7 @@ function Header() {
 
 
                     <div className='space-x-4'>
-                        <button className=' p-3 rounded-full px-6 font-bold bg-[#FF42A5] text-white'>SIGN IN</button>
+                        <button className=' p-3 rounded-full px-6 font-bold bg-gray-300 text-black hover:bg-[#FF42A5] hover:text-white duration-300  ease-in-out'>SIGN IN</button>
                         <button className=' p-3 rounded-full px-6 font-bold bg-[#4EC5F7] text-white'>GO ROUGE</button>
                     </div>
 
