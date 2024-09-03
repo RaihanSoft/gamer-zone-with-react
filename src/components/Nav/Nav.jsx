@@ -3,7 +3,7 @@ import React from 'react'
 function Nav() {
     return (
         <div>
-            <nav className='flex justify-between px-5 xl:px-20 shadow-xl py-2'>
+            <nav className='flex justify-between px-5 xl:px-16 shadow-xl py-2'>
                 <div className='flex items-center  gap-3'>
                     <div>
                         <img className='h-[30px]' src="./Frame.png" alt="" />
@@ -16,7 +16,7 @@ function Nav() {
                 <div className='space-x-5 hidden md:block'>
                     <a href="#">About Us</a>
                     <a href="#">Developers</a>
-                    <button className='btn '>Follow Us on</button>
+                    <button className='btn'>Follow Us on <i class="ri-youtube-fill text-xl text-red-500 "></i> <i class="ri-tiktok-fill text-xl text-black"></i></button>
 
                 </div>
 
