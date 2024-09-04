@@ -3,6 +3,7 @@ import './App.css'
 import Nav from './components/Nav/Nav'
 import Header from './components/Header/Header'
 import Gamer from './components/Gamer/Gamer'
+import Online from './components/Online/Online'
 
 function App() {
  
@@ -13,6 +14,7 @@ function App() {
       <Nav></Nav>
       <Header></Header>
       <Gamer></Gamer>
+      <Online></Online>
 
     </>
   )
