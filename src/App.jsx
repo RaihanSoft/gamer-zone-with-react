@@ -5,6 +5,7 @@ import Header from './components/Header/Header'
 import Gamer from './components/Gamer/Gamer'
 import Online from './components/Online/Online'
 import Plays from './components/Plays/Plays'
+import PlayOnline from './components/PlayOnline/PlayOnline'
 
 function App() {
  
@@ -17,6 +18,7 @@ function App() {
       <Gamer></Gamer>
       <Online></Online>
       <Plays></Plays>
+      <PlayOnline></PlayOnline>
 
     </>
   )
