@@ -8,10 +8,9 @@ import Plays from './components/Plays/Plays'
 import PlayOnline from './components/PlayOnline/PlayOnline'
 import Career from './components/Career/Career'
 import Actions from './components/Actions/Actions'
+import Footer from './components/Footer/Footer'
 
 function App() {
- 
-
   return (
     <>
 
@@ -23,6 +22,7 @@ function App() {
       <PlayOnline></PlayOnline>
       <Career></Career>
       <Actions></Actions>
+      <Footer></Footer>
 
     </>
   )
