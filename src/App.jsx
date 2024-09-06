@@ -6,6 +6,7 @@ import Gamer from './components/Gamer/Gamer'
 import Online from './components/Online/Online'
 import Plays from './components/Plays/Plays'
 import PlayOnline from './components/PlayOnline/PlayOnline'
+import Career from './components/Career/Career'
 
 function App() {
  
@@ -19,6 +20,7 @@ function App() {
       <Online></Online>
       <Plays></Plays>
       <PlayOnline></PlayOnline>
+      <Career></Career>
 
     </>
   )
