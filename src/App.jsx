@@ -7,6 +7,7 @@ import Online from './components/Online/Online'
 import Plays from './components/Plays/Plays'
 import PlayOnline from './components/PlayOnline/PlayOnline'
 import Career from './components/Career/Career'
+import Actions from './components/Actions/Actions'
 
 function App() {
  
@@ -21,6 +22,7 @@ function App() {
       <Plays></Plays>
       <PlayOnline></PlayOnline>
       <Career></Career>
+      <Actions></Actions>
 
     </>
   )
